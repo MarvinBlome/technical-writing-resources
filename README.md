@@ -77,6 +77,7 @@ Technical writing is a form of communication that helps users solve problems wit
 - [Technical Writer Certification Course](https://technicalwriter.teachable.com/p/technical-writing-certification) ~ Technical Writer Certification Course was created for aspiring technical writers or people who want to brush up on their technical writing skills.
 - [SEO FOR DEVS](https://seofordevs.com/) ~ SEO FOR DEVS is a free 2 weeks course that helps people discover your tech blog or side project in a systematic way
 - [API Documentation for Developers](https://apidocsfordevs.com/) ~ A hands-on guide to creating and maintaining API documentation.
+- [Technical Writing Guide](https://www.adoc-studio.app/blog/technical-writing-guide) ~ A comprehensive guide for technical writers on phases, stakeholders, project management, trends and more. 
 
 ## Youtube
 
