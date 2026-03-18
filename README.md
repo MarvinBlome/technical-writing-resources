@@ -77,6 +77,7 @@ Technical writing is a form of communication that helps users solve problems wit
 - [Technical Writer Certification Course](https://technicalwriter.teachable.com/p/technical-writing-certification) ~ Technical Writer Certification Course was created for aspiring technical writers or people who want to brush up on their technical writing skills.
 - [SEO FOR DEVS](https://seofordevs.com/) ~ SEO FOR DEVS is a free 2 weeks course that helps people discover your tech blog or side project in a systematic way
 - [API Documentation for Developers](https://apidocsfordevs.com/) ~ A hands-on guide to creating and maintaining API documentation.
+- [Technical Writing Guide](https://www.adoc-studio.app/blog/technical-writing-guide) ~ A comprehensive guide for technical writers on phases, stakeholders, project management, trends and more. 
 
 ## Youtube
 
@@ -144,6 +145,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Antora](https://antora.org/) ~ A documentation site generator for creating documentation portals and technical documentation websites.
 - [VuePress](https://vuepress.vuejs.org/) ~ A static site generator powered by Vue.js.
 - [Asciidoctor](https://asciidoctor.org/) ~ A fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.
+- [adoc Studio](https://www.adoc-studio.app) ~ AsciiDoc writing environment for macOS and iOS with syntax completion, translation management, static site generation and AI writing assistant.
 - [Confluence](https://www.atlassian.com/software/confluence) ~ A collaboration tool used to help teams collaborate and share knowledge efficiently.
 - [MadCap Flare](https://www.madcapsoftware.com/products/flare/) ~ A comprehensive technical authoring and publishing tool for creating content for various outputs.
 
